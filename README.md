@@ -24,7 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/1478800/100968769-d2482d00-34e6-11eb-9c4e-80cb1322b81a.png)
 
-5. Download the `nginx` folder from this repo, open it in vscode and run `./start.sh` script (`./start.ps1` for Windows).
+5. Run `cd /root/ado-in-codespaces/nginx` and then run `./start.sh` script (`./start.ps1` for Windows).
 
 ![image](https://user-images.githubusercontent.com/1478800/100968925-1dfad680-34e7-11eb-9f9c-62801235ce76.png)
 
